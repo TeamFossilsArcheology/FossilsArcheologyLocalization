@@ -1,0 +1,7 @@
+"Key";"Source string";"Translation";"Context"
+"item.fossil.amber";"Amber";"";""
+"item.fossil.ancient_clock";"Ancient Clock2";"";""
+"item.fossil.ancient_key";"Ancient Key";"";""
+"item.fossil.ancient_helmet";"Ancient Helmet";"";""
+"item.fossil.ancient_sword";"Ancient Sword";"";""
+"item.fossil.bone_unique_allosaurus";"%s Claw";"";"Keep the variable %s. It will be replaced with the translation of entity.fossil.allosaurus2"
