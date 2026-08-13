@@ -1,0 +1,6 @@
+project_id: '919895'
+files:
+  - source: /en_us/en_us.csv
+    translation: /%locale_with_underscore%/%locale_with_underscore%.csv
+    first_line_contains_header: 1
+    scheme: 'identifier,source_phrase,translation,context'
